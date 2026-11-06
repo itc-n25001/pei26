@@ -1,0 +1,11 @@
+from math import sqrt
+print(sqrt(25))
+
+
+
+
+"""
+平方根を計算する関数は sqrt() で、math モジュールにあります。
+では、sqrt() をコード内で直接呼び出せるようにする import 文を作成してみてください。
+コードの作成・実行を確認したら、PUSHしたコードのURLをClassroomに提出しましょう。
+"""
